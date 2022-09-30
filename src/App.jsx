@@ -29,7 +29,7 @@ function App() {
 				{germanNouns.map((germanNoun) => {
 					return (
 						<div className="germanNoun">
-							<img src="images/cardback.jpg" />
+							<img src="src/images/cardback.jpg" />
 							<div className="info">
 								<div className="singular">
 									{germanNoun.article} {germanNoun.singular}
