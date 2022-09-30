@@ -1,7 +1,0 @@
-low-hanging fruit
-    - install Sass
-    - data-driven site with JSON file
-    - display images
-more complicated
-    - load data from an API
-    - React Router

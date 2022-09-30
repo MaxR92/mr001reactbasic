@@ -3,8 +3,19 @@ body {
     color: #ccc;
     font-family: sans-serif;
     padding: 0 1rem;
-}
-
-h1 {
-    color: yellow;
-}
+  
+    h1 {
+      color: rgb(224, 201, 149);
+    }
+  
+    .germanNouns {
+      .germanNoun {
+        background-color: #222;
+        margin-bottom: 1rem;
+        padding: 1rem;
+        .singular {
+          color: rgb(228, 179, 87);
+        }
+      }
+    }
+  }
